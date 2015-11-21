@@ -1,1 +1,8 @@
 *.py[cod]
+
+# PyCharm
+.idea/
+
+# Devel packaging
+*.egg
+*.egg-info/
